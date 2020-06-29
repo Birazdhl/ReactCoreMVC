@@ -1,0 +1,14 @@
+C:\Users\Biraz\source\repos\Projects\Application\obj\Debug\netstandard2.0\Model.csprojAssemblyReference.cache
+C:\Users\Biraz\source\repos\Projects\Application\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\Users\Biraz\source\repos\Projects\Application\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
+C:\Users\Biraz\source\repos\Projects\Application\bin\Debug\netstandard2.0\Model.deps.json
+C:\Users\Biraz\source\repos\Projects\Application\bin\Debug\netstandard2.0\Model.dll
+C:\Users\Biraz\source\repos\Projects\Application\bin\Debug\netstandard2.0\Model.pdb
+C:\Users\Biraz\source\repos\Projects\Application\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Biraz\source\repos\Projects\Application\bin\Debug\netstandard2.0\Persistence.dll
+C:\Users\Biraz\source\repos\Projects\Application\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Biraz\source\repos\Projects\Application\bin\Debug\netstandard2.0\Persistence.pdb
+C:\Users\Biraz\source\repos\Projects\Application\obj\Debug\netstandard2.0\Model.csproj.CopyComplete
+C:\Users\Biraz\source\repos\Projects\Application\obj\Debug\netstandard2.0\Model.dll
+C:\Users\Biraz\source\repos\Projects\Application\obj\Debug\netstandard2.0\Model.pdb
+C:\Users\Biraz\source\repos\Projects\Application\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
